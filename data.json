@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "category": "Plumber",
+    "image": "https://www.svgrepo.com/show/5095/plumber.svg",
+    "service": [
+      { "name": "Water Tank Cleaning", "image": "https://www.svgrepo.com/show/5095/plumber.svg" },
+      { "name": "Pipe Fitting", "image": "https://www.svgrepo.com/show/5095/plumber.svg" },
+      { "name": "Tap Repair", "image": "https://www.svgrepo.com/show/5095/plumber.svg" },
+      { "name": "Drain Unclogging", "image": "https://www.svgrepo.com/show/5095/plumber.svg" }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Electrician",
+    "image": "https://www.svgrepo.com/show/278726/electrician.svg",
+    "service": [
+      { "name": "Wiring", "image": "https://www.svgrepo.com/show/278726/electrician.svg" },
+      { "name": "Fan Installation", "image": "https://www.svgrepo.com/show/278726/electrician.svg" },
+      { "name": "Switch Repair", "image": "https://www.svgrepo.com/show/278726/electrician.svg" },
+      { "name": "Inverter Installation", "image": "https://www.svgrepo.com/show/278726/electrician.svg" }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Carpenter",
+    "image": "https://via.placeholder.com/256?text=Carpenter",
+    "service": [
+      { "name": "Door Fitting", "image": "https://via.placeholder.com/256?text=Door+Fitting" },
+      { "name": "Furniture Repair", "image": "https://via.placeholder.com/256?text=Furniture+Repair" },
+      { "name": "Wood Polishing", "image": "https://via.placeholder.com/256?text=Wood+Polishing" },
+      { "name": "Modular Kitchen Setup", "image": "https://via.placeholder.com/256?text=Modular+Kitchen" }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Painter",
+    "image": "https://via.placeholder.com/256?text=Painter",
+    "service": [
+      { "name": "Wall Painting", "image": "https://via.placeholder.com/256?text=Wall+Painting" },
+      { "name": "Texture Painting", "image": "https://via.placeholder.com/256?text=Texture+Painting" },
+      { "name": "Waterproofing", "image": "https://via.placeholder.com/256?text=Waterproofing" },
+      { "name": "Ceiling Design", "image": "https://via.placeholder.com/256?text=Ceiling+Design" }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "AC Technician",
+    "image": "https://via.placeholder.com/256?text=AC+Technician",
+    "service": [
+      { "name": "AC Installation", "image": "https://via.placeholder.com/256?text=AC+Installation" },
+      { "name": "AC Repair", "image": "https://via.placeholder.com/256?text=AC+Repair" },
+      { "name": "Gas Filling", "image": "https://via.placeholder.com/256?text=Gas+Filling" },
+      { "name": "AC Servicing", "image": "https://via.placeholder.com/256?text=AC+Servicing" }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Mechanic",
+    "image": "https://via.placeholder.com/256?text=Mechanic",
+    "service": [
+      { "name": "Engine Repair", "image": "https://via.placeholder.com/256?text=Engine+Repair" },
+      { "name": "Oil Change", "image": "https://via.placeholder.com/256?text=Oil+Change" },
+      { "name": "Brake Repair", "image": "https://via.placeholder.com/256?text=Brake+Repair" },
+      { "name": "Battery Replacement", "image": "https://via.placeholder.com/256?text=Battery+Replacement" }
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Gardener",
+    "image": "https://via.placeholder.com/256?text=Gardener",
+    "service": [
+      { "name": "Lawn Mowing", "image": "https://via.placeholder.com/256?text=Lawn+Mowing" },
+      { "name": "Plant Care", "image": "https://via.placeholder.com/256?text=Plant+Care" },
+      { "name": "Weed Removal", "image": "https://via.placeholder.com/256?text=Weed+Removal" },
+      { "name": "Tree Trimming", "image": "https://via.placeholder.com/256?text=Tree+Trimming" }
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Mason (Mistri)",
+    "image": "https://via.placeholder.com/256?text=Mason",
+    "service": [
+      { "name": "Wall Construction", "image": "https://via.placeholder.com/256?text=Wall+Construction" },
+      { "name": "Tile Fitting", "image": "https://via.placeholder.com/256?text=Tile+Fitting" },
+      { "name": "Plaster Work", "image": "https://via.placeholder.com/256?text=Plaster+Work" },
+      { "name": "Cement Work", "image": "https://via.placeholder.com/256?text=Cement+Work" }
+    ]
+  },
+  {
+    "id": 9,
+    "category": "CCTV Installer",
+    "image": "https://via.placeholder.com/256?text=CCTV+Installer",
+    "service": [
+      { "name": "CCTV Setup", "image": "https://via.placeholder.com/256?text=CCTV+Setup" },
+      { "name": "Surveillance Maintenance", "image": "https://via.placeholder.com/256?text=Surveillance+Maintenance" },
+      { "name": "Camera Repair", "image": "https://via.placeholder.com/256?text=Camera+Repair" },
+      { "name": "Wiring Setup", "image": "https://via.placeholder.com/256?text=Wiring+Setup" }
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Pest Control",
+    "image": "https://via.placeholder.com/256?text=Pest+Control",
+    "service": [
+      { "name": "Termite Control", "image": "https://via.placeholder.com/256?text=Termite+Control" },
+      { "name": "Cockroach Treatment", "image": "https://via.placeholder.com/256?text=Cockroach+Treatment" },
+      { "name": "Rodent Removal", "image": "https://via.placeholder.com/256?text=Rodent+Removal" },
+      { "name": "Bed Bug Treatment", "image": "https://via.placeholder.com/256?text=Bed+Bug+Treatment" }
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Washerman (Dhobi)",
+    "image": "https://via.placeholder.com/256?text=Dhobi",
+    "service": [
+      { "name": "Clothes Washing", "image": "https://via.placeholder.com/256?text=Clothes+Washing" },
+      { "name": "Ironing", "image": "https://via.placeholder.com/256?text=Ironing" },
+      { "name": "Dry Cleaning", "image": "https://via.placeholder.com/256?text=Dry+Cleaning" },
+      { "name": "Curtain Cleaning", "image": "https://via.placeholder.com/256?text=Curtain+Cleaning" }
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Welder",
+    "image": "https://via.placeholder.com/256?text=Welder",
+    "service": [
+      { "name": "Gate Welding", "image": "https://via.placeholder.com/256?text=Gate+Welding" },
+      { "name": "Window Grill Welding", "image": "https://via.placeholder.com/256?text=Grill+Welding" },
+      { "name": "Pipe Welding", "image": "https://via.placeholder.com/256?text=Pipe+Welding" },
+      { "name": "Iron Fabrication", "image": "https://via.placeholder.com/256?text=Iron+Fabrication" }
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Glass Worker",
+    "image": "https://via.placeholder.com/256?text=Glass+Worker",
+    "service": [
+      { "name": "Glass Door Fitting", "image": "https://via.placeholder.com/256?text=Glass+Door" },
+      { "name": "Window Pane Replacement", "image": "https://via.placeholder.com/256?text=Window+Pane" },
+      { "name": "Mirror Installation", "image": "https://via.placeholder.com/256?text=Mirror" },
+      { "name": "Glass Partition", "image": "https://via.placeholder.com/256?text=Partition" }
+    ]
+  },
+  {
+    "id": 14,
+    "category": "RO Technician",
+    "image": "https://via.placeholder.com/256?text=RO+Technician",
+    "service": [
+      { "name": "RO Installation", "image": "https://via.placeholder.com/256?text=RO+Installation" },
+      { "name": "Filter Change", "image": "https://via.placeholder.com/256?text=Filter+Change" },
+      { "name": "Purifier Repair", "image": "https://via.placeholder.com/256?text=Purifier+Repair" },
+      { "name": "Annual Maintenance", "image": "https://via.placeholder.com/256?text=Annual+Maintenance" }
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Cook",
+    "image": "https://via.placeholder.com/256?text=Cook",
+    "service": [
+      { "name": "North Indian Food", "image": "https://via.placeholder.com/256?text=North+Indian" },
+      { "name": "South Indian Food", "image": "https://via.placeholder.com/256?text=South+Indian" },
+      { "name": "Tiffin Services", "image": "https://via.placeholder.com/256?text=Tiffin+Services" },
+      { "name": "Party Cooking", "image": "https://via.placeholder.com/256?text=Party+Cooking" }
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Tailor",
+    "image": "https://via.placeholder.com/256?text=Tailor",
+    "service": [
+      { "name": "Blouse Stitching", "image": "https://via.placeholder.com/256?text=Blouse" },
+      { "name": "Pant Alteration", "image": "https://via.placeholder.com/256?text=Pant+Alteration" },
+      { "name": "Dress Making", "image": "https://via.placeholder.com/256?text=Dress+Making" },
+      { "name": "Uniform Stitching", "image": "https://via.placeholder.com/256?text=Uniform+Stitching" }
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Washing Machine Repair",
+    "image": "https://via.placeholder.com/256?text=Washer+Repair",
+    "service": [
+      { "name": "Machine Repair", "image": "https://via.placeholder.com/256?text=Machine+Repair" },
+      { "name": "Drum Replacement", "image": "https://via.placeholder.com/256?text=Drum+Replacement" },
+      { "name": "Pipe Fix", "image": "https://via.placeholder.com/256?text=Pipe+Fix" },
+      { "name": "Motor Repair", "image": "https://via.placeholder.com/256?text=Motor+Repair" }
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Mobile Repair",
+    "image": "https://via.placeholder.com/256?text=Mobile+Repair",
+    "service": [
+      { "name": "Screen Replacement", "image": "https://via.placeholder.com/256?text=Screen+Replacement" },
+      { "name": "Battery Change", "image": "https://via.placeholder.com/256?text=Battery+Change" },
+      { "name": "Software Issues", "image": "https://via.placeholder.com/256?text=Software+Issues" },
+      { "name": "Charging Fix", "image": "https://via.placeholder.com/256?text=Charging+Fix" }
+    ]
+  },
+  {
+    "id": 19,
+    "category": "Laptop Repair",
+    "image": "https://via.placeholder.com/256?text=Laptop+Repair",
+    "service": [
+      { "name": "Screen Repair", "image": "https://via.placeholder.com/256?text=Screen+Repair" },
+      { "name": "Keyboard Replacement", "image": "https://via.placeholder.com/256?text=Keyboard" },
+      { "name": "Data Recovery", "image": "https://via.placeholder.com/256?text=Data+Recovery" },
+      { "name": "Motherboard Repair", "image": "https://via.placeholder.com/256?text=Motherboard+Repair" }
+    ]
+  },
+  {
+    "id": 20,
+    "category": "Refrigerator Technician",
+    "image": "https://via.placeholder.com/256?text=Fridge+Technician",
+    "service": [
+      { "name": "Cooling Fix", "image": "https://via.placeholder.com/256?text=Cooling+Fix" },
+      { "name": "Compressor Replacement", "image": "https://via.placeholder.com/256?text=Compressor" },
+      { "name": "Gas Charging", "image": "https://via.placeholder.com/256?text=Gas+Charging" },
+      { "name": "Door Seal Change", "image": "https://via.placeholder.com/256?text=Door+Seal" }
+    ]
+  }
+]
