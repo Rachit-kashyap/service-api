@@ -2,34 +2,34 @@
   {
     "id": 1,
     "category": "Plumber",
-    "image": "https://www.svgrepo.com/show/5095/plumber.svg",
+    "image": "https://i.pinimg.com/736x/5b/79/11/5b7911765a2ad889debb658c04759c98.jpg",
     "service": [
-      { "name": "Water Tank Cleaning", "image": "https://www.svgrepo.com/show/5095/plumber.svg" },
-      { "name": "Pipe Fitting", "image": "https://www.svgrepo.com/show/5095/plumber.svg" },
-      { "name": "Tap Repair", "image": "https://www.svgrepo.com/show/5095/plumber.svg" },
-      { "name": "Drain Unclogging", "image": "https://www.svgrepo.com/show/5095/plumber.svg" }
+      { "name": "Water Tank Cleaning", "image": "https://i.pinimg.com/736x/51/5f/1d/515f1da96f1a2c387de22779b22b62d3.jpg" },
+      { "name": "Pipe Fitting", "image": "https://i.pinimg.com/736x/f1/70/06/f17006a25e885e1516fd7d0159ff6ec6.jpg" },
+      { "name": "Tap Repair", "image": "https://airtasker-seo-assets-prod.s3.amazonaws.com/en_GB/1631524426703_how-to-fix-a-leaking-tap.jpg" },
+      { "name": "Drain Unclogging", "image": "https://i.pinimg.com/736x/37/f6/7b/37f67bc2fa62000207fc3a544fb10108.jpg" }
     ]
   },
   {
     "id": 2,
     "category": "Electrician",
-    "image": "https://www.svgrepo.com/show/278726/electrician.svg",
+    "image": "https://i.pinimg.com/736x/71/90/0b/71900b6cc1c6b7e62f7712cdf0933dca.jpg",
     "service": [
-      { "name": "Wiring", "image": "https://www.svgrepo.com/show/278726/electrician.svg" },
-      { "name": "Fan Installation", "image": "https://www.svgrepo.com/show/278726/electrician.svg" },
-      { "name": "Switch Repair", "image": "https://www.svgrepo.com/show/278726/electrician.svg" },
-      { "name": "Inverter Installation", "image": "https://www.svgrepo.com/show/278726/electrician.svg" }
+      { "name": "Wiring", "image": "https://i.pinimg.com/736x/d6/fe/e9/d6fee9f9c3c1b8d8c506232385f914d4.jpg" },
+      { "name": "Fan Installation", "image": "https://th.bing.com/th/id/OIP.T-ZSSDlBt__9iH3GORmxfwHaE-?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3" },
+      { "name": "Switch Repair", "image": "https://sukwariya.com/wp-content/uploads/2022/08/switchboard_repair.webp" },
+      { "name": "Inverter Installation", "image": "https://i.pinimg.com/736x/ae/05/b3/ae05b345a369390de7a8fb0601fe7737.jpg" }
     ]
   },
   {
     "id": 3,
     "category": "Carpenter",
-    "image": "https://via.placeholder.com/256?text=Carpenter",
+    "image": "https://i.pinimg.com/736x/fd/9e/17/fd9e17611fe11d0a220f7f609300b676.jpg",
     "service": [
-      { "name": "Door Fitting", "image": "https://via.placeholder.com/256?text=Door+Fitting" },
-      { "name": "Furniture Repair", "image": "https://via.placeholder.com/256?text=Furniture+Repair" },
-      { "name": "Wood Polishing", "image": "https://via.placeholder.com/256?text=Wood+Polishing" },
-      { "name": "Modular Kitchen Setup", "image": "https://via.placeholder.com/256?text=Modular+Kitchen" }
+      { "name": "Door Fitting", "image": "https://i.pinimg.com/736x/45/99/d3/4599d35ed8b80cf5d600bd343c2787d7.jpg" },
+      { "name": "Furniture Repair", "image": "https://i.pinimg.com/736x/60/5e/5c/605e5c6a4e9831c7b98501ae6497ef8b.jpg" },
+      { "name": "Wood Polishing", "image": "https://i.pinimg.com/736x/69/28/7e/69287ec5aa573b25c3ac106f70d054c6.jpg" },
+      { "name": "Modular Kitchen Setup", "image": "https://th.bing.com/th/id/OIP.PVhEJ1Cul-nXguQYqI0AAAHaEc?rs=1&pid=ImgDetMain&cb=idpwebp2&o=7&rm=3" }
     ]
   },
   {
